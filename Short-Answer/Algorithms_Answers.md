@@ -13,6 +13,6 @@ c) The time complexity of C is O(1) or constant time because even though there i
 ## Exercise II
 
 Make a function, call it throwing eggs. 
-In that function we need an for loop. For each floor in the building, if that floor is higher than f the egg breaks, else return the unbroken egg. 
+In that function we need an for loop. For each floor in the building, if that floor is higher than ground floor throw egg. return false for broken and true for unbroken.  
 
 The runtime complexity of this the throwing eggs function would be O(n) due to the for loop. 
